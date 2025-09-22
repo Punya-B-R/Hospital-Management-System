@@ -52,31 +52,28 @@ Database : MySQL
 2. Doctor registering on the system:
 ![alt text](https://github.com/Punya-B-R/Hospital-Management-System/blob/master/Screenshots/DoctorRegistration.png?raw=true)
 
-4. Password Reset Screen:
+3. Password Reset Screen:
 ![alt text](https://github.com/Punya-B-R/Hospital-Management-System/blob/master/Screenshots/PasswordReset.png?raw=true)
 
-5. Patient Home Screen:
+4. Patient Home Screen:
 ![alt text](https://github.com/Punya-B-R/Hospital-Management-System/blob/master/Screenshots/PatientHome.png?raw=true)
 
-6. Patient Viewing History:
+5. Patient Viewing History:
 ![alt text](https://github.com/Punya-B-R/Hospital-Management-System/blob/master/Screenshots/PatientHistory.png?raw=true)
 
-7. Patient Viewing Appointments:
+6. Patient Viewing Appointments:
 ![alt text](https://github.com/Punya-B-R/Hospital-Management-System/blob/master/Screenshots/PatientViewingAppt.png?raw=true)
 
-8. Patient Scheduling Appointment:
-![alt text](https://github.com/Punya-B-R/Hospital-Management-System/blob/master/Screenshots/SchedulingAppt.png?raw=true)
-
-9. Doctor Home Screen:
+7. Doctor Home Screen:
 ![alt text](https://github.com/Punya-B-R/Hospital-Management-System/blob/master/Screenshots/DoctorHome.png?raw=true)
 
-10. Doctor Viewing Appointment:
+8. Doctor Viewing Appointment:
 ![alt text](https://github.com/Punya-B-R/Hospital-Management-System/blob/master/Screenshots/DoctorViewingAppt.png?raw=true)
 
-11. Doctor Giving Diagnosis:
+9. Doctor Giving Diagnosis:
 ![alt text](https://github.com/Punya-B-R/Hospital-Management-System/blob/master/Screenshots/Diagnosis.png?raw=true)
 
-12. Doctor Viewing Patient History:
+10. Doctor Viewing Patient History:
 ![alt text](https://github.com/Punya-B-R/Hospital-Management-System/blob/master/Screenshots/ViewingPatientHistory.png?raw=true)
 
 <b>Instructions to run:</b>
